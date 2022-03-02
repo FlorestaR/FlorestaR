@@ -1,12 +1,1 @@
-![Série **Floresta*R***](Capas.png)
-
-- 👋 Hi, I’m @FlorestaR
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-FlorestaR/FlorestaR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Série **Floresta*R***](https://user-images.githubusercontent.com/100598348/156360810-7924a05e-1c64-4ce5-8f7e-13d8357f2e71.png)
