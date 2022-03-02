@@ -1,5 +1,4 @@
-![Série **Floresta*R***](https://github.com/FlorestaR/dados/blob/blob/main/Capas.png?raw=true)
-
+![Série **Floresta*R***](Capas.png)
 
 - 👋 Hi, I’m @FlorestaR
 - 👀 I’m interested in ...
